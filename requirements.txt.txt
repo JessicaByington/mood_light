@@ -1,0 +1,1 @@
+python-magichue==0.2.9.1
